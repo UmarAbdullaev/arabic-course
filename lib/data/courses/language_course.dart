@@ -1,7 +1,7 @@
 import 'package:arabic_course/palette.dart';
 import 'package:flutter/material.dart';
 import '../../models/course.dart';
-import '../lessons/reading_lesson_1.dart';
+import '../lessons/reading_lessons.dart';
 
 final languageCourse = Course(
   title: "Til kursi",
